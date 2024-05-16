@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Indigo.Project_On_IndiGO_Airline_Application.TestCase_1_IndiGo_B_To_C"/>
+      <class name="Indigo.Project_On_IndiGO_Airline_Application.TestCase_2_IndiGo_B_To_C"/>
+      <class name="Indigo.Project_On_IndiGO_Airline_Application.TestCase_3_IndiGo_B_To_C"/>
+      <class name="Indigo.Project_On_IndiGO_Airline_Application.TestCase_4_IndiGo_B_To_C"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
